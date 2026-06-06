@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /admin
-Disallow: /signup
-
-Sitemap: https://todayler.com/sitemap.xml
